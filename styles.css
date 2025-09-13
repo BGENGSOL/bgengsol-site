@@ -1,0 +1,11 @@
+:root {
+  --color-primary-blue: #0A2342;
+  --color-accent-green: #30B298;
+  --color-neutral-light: #F8F9FA;
+  --spacing-md: 30px;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: 'Open Sans', sans-serif; line-height: 1.6; }
+.container { width: 90%; max-width: 1200px; margin: auto; padding: 0 var(--spacing-md); }
+/* Add further section styles below */
